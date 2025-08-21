@@ -65,6 +65,3 @@ This project provides a comprehensive analysis of global and US-specific COVID-1
 
 This analysis provides valuable insights into the COVID-19 pandemic's regional impacts, recovery efficiency, and mortality variations. It serves as a resource for further study and decision-making support in public health and epidemiology.
 
----
-
-Feel free to adapt, expand, and update the analysis as new data becomes available.
